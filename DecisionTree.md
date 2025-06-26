@@ -1,4 +1,6 @@
-```flowchart TD
+```mermaid
+flowchart TD
+
     %% ───────── START ────────
     A(["Start / Start"])
 
@@ -34,3 +36,4 @@
     E -- "YES / JA" --> H
     E -- "NO / NEIN"  --> I
 ```
+
